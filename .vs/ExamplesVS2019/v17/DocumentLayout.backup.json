@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleserviceprovider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|solutionrelative:sso\\exampleserviceprovider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C861C38D-B1FA-4EA8-BF46-3A8E9C96BB04}|SSO\\ExampleIdentityProvider\\ExampleIdentityProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleidentityprovider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C861C38D-B1FA-4EA8-BF46-3A8E9C96BB04}|SSO\\ExampleIdentityProvider\\ExampleIdentityProvider.csproj|solutionrelative:sso\\exampleidentityprovider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C861C38D-B1FA-4EA8-BF46-3A8E9C96BB04}|SSO\\ExampleIdentityProvider\\ExampleIdentityProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleidentityprovider\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C861C38D-B1FA-4EA8-BF46-3A8E9C96BB04}|SSO\\ExampleIdentityProvider\\ExampleIdentityProvider.csproj|solutionrelative:sso\\exampleidentityprovider\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C861C38D-B1FA-4EA8-BF46-3A8E9C96BB04}|SSO\\ExampleIdentityProvider\\ExampleIdentityProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleidentityprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C861C38D-B1FA-4EA8-BF46-3A8E9C96BB04}|SSO\\ExampleIdentityProvider\\ExampleIdentityProvider.csproj|solutionrelative:sso\\exampleidentityprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleserviceprovider\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|solutionrelative:sso\\exampleserviceprovider\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76218ED9-D54E-41C4-8C5E-D05B01BC481A}|SSO\\SamlProxy\\SamlProxy.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\samlproxy\\controllers\\serviceprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76218ED9-D54E-41C4-8C5E-D05B01BC481A}|SSO\\SamlProxy\\SamlProxy.csproj|solutionrelative:sso\\samlproxy\\controllers\\serviceprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DF8DAA-6EBC-44E9-9783-69A1CBE0715F}|SSO\\MiddlewareServiceProvider\\MiddlewareServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\middlewareserviceprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DF8DAA-6EBC-44E9-9783-69A1CBE0715F}|SSO\\MiddlewareServiceProvider\\MiddlewareServiceProvider.csproj|solutionrelative:sso\\middlewareserviceprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DF8DAA-6EBC-44E9-9783-69A1CBE0715F}|SSO\\MiddlewareServiceProvider\\MiddlewareServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\middlewareserviceprovider\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DF8DAA-6EBC-44E9-9783-69A1CBE0715F}|SSO\\MiddlewareServiceProvider\\MiddlewareServiceProvider.csproj|solutionrelative:sso\\middlewareserviceprovider\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleserviceprovider\\controllers\\samlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|solutionrelative:sso\\exampleserviceprovider\\controllers\\samlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\exampleserviceprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670C254C-D973-4B09-8BBB-B8E8083B9DF3}|SSO\\ExampleServiceProvider\\ExampleServiceProvider.csproj|solutionrelative:sso\\exampleserviceprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A276413-7CED-4028-8DBB-0937A6964FB0}|SSO\\ExampleWebApi\\ExampleWebApi.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\examplewebapi\\controllers\\samlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A276413-7CED-4028-8DBB-0937A6964FB0}|SSO\\ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:sso\\examplewebapi\\controllers\\samlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DF8DAA-6EBC-44E9-9783-69A1CBE0715F}|SSO\\MiddlewareServiceProvider\\MiddlewareServiceProvider.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\middlewareserviceprovider\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DF8DAA-6EBC-44E9-9783-69A1CBE0715F}|SSO\\MiddlewareServiceProvider\\MiddlewareServiceProvider.csproj|solutionrelative:sso\\middlewareserviceprovider\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76218ED9-D54E-41C4-8C5E-D05B01BC481A}|SSO\\SamlProxy\\SamlProxy.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\sso\\samlproxy\\controllers\\identityprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76218ED9-D54E-41C4-8C5E-D05B01BC481A}|SSO\\SamlProxy\\SamlProxy.csproj|solutionrelative:sso\\samlproxy\\controllers\\identityprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72CF5B6-E809-428D-ADF1-626EB29582E8}|Configuration\\CreateConfiguration\\CreateConfiguration.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\configuration\\createconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72CF5B6-E809-428D-ADF1-626EB29582E8}|Configuration\\CreateConfiguration\\CreateConfiguration.csproj|solutionrelative:configuration\\createconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800B0952-3C85-49C8-98B4-F64B911A37CC}|Certificate\\CreateSelfSignedCert\\CreateSelfSignedCert.csproj|d:\\cloud\\onedrive\\developer\\projects\\freelance\\meta-dao\\no nfep\\asa\\saml sso\\componentspace\\samlv20.core-licensed\\saml for .net core\\examples\\net-core-3.1\\certificate\\createselfsignedcert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800B0952-3C85-49C8-98B4-F64B911A37CC}|Certificate\\CreateSelfSignedCert\\CreateSelfSignedCert.csproj|solutionrelative:certificate\\createselfsignedcert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 63,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\Startup.cs",
+              "RelativeDocumentMoniker": "SSO\\ExampleServiceProvider\\Startup.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\Startup.cs",
+              "RelativeToolTip": "SSO\\ExampleServiceProvider\\Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:34:59.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleIdentityProvider\\Program.cs",
+              "RelativeDocumentMoniker": "SSO\\ExampleIdentityProvider\\Program.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleIdentityProvider\\Program.cs",
+              "RelativeToolTip": "SSO\\ExampleIdentityProvider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:43:15.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleIdentityProvider\\appsettings.json",
+              "RelativeDocumentMoniker": "SSO\\ExampleIdentityProvider\\appsettings.json",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleIdentityProvider\\appsettings.json",
+              "RelativeToolTip": "SSO\\ExampleIdentityProvider\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T15:35:07.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceProviderController.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\SamlProxy\\Controllers\\ServiceProviderController.cs",
+              "RelativeDocumentMoniker": "SSO\\SamlProxy\\Controllers\\ServiceProviderController.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\SamlProxy\\Controllers\\ServiceProviderController.cs",
+              "RelativeToolTip": "SSO\\SamlProxy\\Controllers\\ServiceProviderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:55:52.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SamlController.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleWebApi\\Controllers\\SamlController.cs",
+              "RelativeDocumentMoniker": "SSO\\ExampleWebApi\\Controllers\\SamlController.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleWebApi\\Controllers\\SamlController.cs",
+              "RelativeToolTip": "SSO\\ExampleWebApi\\Controllers\\SamlController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:29:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\MiddlewareServiceProvider\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SSO\\MiddlewareServiceProvider\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\MiddlewareServiceProvider\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SSO\\MiddlewareServiceProvider\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T01:23:48.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\MiddlewareServiceProvider\\Startup.cs",
+              "RelativeDocumentMoniker": "SSO\\MiddlewareServiceProvider\\Startup.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\MiddlewareServiceProvider\\Startup.cs",
+              "RelativeToolTip": "SSO\\MiddlewareServiceProvider\\Startup.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:44:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\MiddlewareServiceProvider\\Program.cs",
+              "RelativeDocumentMoniker": "SSO\\MiddlewareServiceProvider\\Program.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\MiddlewareServiceProvider\\Program.cs",
+              "RelativeToolTip": "SSO\\MiddlewareServiceProvider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:44:12.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\Program.cs",
+              "RelativeDocumentMoniker": "SSO\\ExampleServiceProvider\\Program.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\Program.cs",
+              "RelativeToolTip": "SSO\\ExampleServiceProvider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:03:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\appsettings.json",
+              "RelativeDocumentMoniker": "SSO\\ExampleServiceProvider\\appsettings.json",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\appsettings.json",
+              "RelativeToolTip": "SSO\\ExampleServiceProvider\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T22:03:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\Configuration\\CreateConfiguration\\Program.cs",
+              "RelativeDocumentMoniker": "Configuration\\CreateConfiguration\\Program.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\Configuration\\CreateConfiguration\\Program.cs",
+              "RelativeToolTip": "Configuration\\CreateConfiguration\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:04:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleIdentityProvider\\Startup.cs",
+              "RelativeDocumentMoniker": "SSO\\ExampleIdentityProvider\\Startup.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleIdentityProvider\\Startup.cs",
+              "RelativeToolTip": "SSO\\ExampleIdentityProvider\\Startup.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:31:31.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SamlController.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\Controllers\\SamlController.cs",
+              "RelativeDocumentMoniker": "SSO\\ExampleServiceProvider\\Controllers\\SamlController.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\ExampleServiceProvider\\Controllers\\SamlController.cs",
+              "RelativeToolTip": "SSO\\ExampleServiceProvider\\Controllers\\SamlController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:29:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityProviderController.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\SamlProxy\\Controllers\\IdentityProviderController.cs",
+              "RelativeDocumentMoniker": "SSO\\SamlProxy\\Controllers\\IdentityProviderController.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\SSO\\SamlProxy\\Controllers\\IdentityProviderController.cs",
+              "RelativeToolTip": "SSO\\SamlProxy\\Controllers\\IdentityProviderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:28:44.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\Certificate\\CreateSelfSignedCert\\Program.cs",
+              "RelativeDocumentMoniker": "Certificate\\CreateSelfSignedCert\\Program.cs",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Developer\\Projects\\Freelance\\META-DAO\\NO NFEP\\ASA\\SAML SSO\\ComponentSpace\\SAMLv20.Core-licensed\\SAML for .NET Core\\Examples\\NET-Core-3.1\\Certificate\\CreateSelfSignedCert\\Program.cs",
+              "RelativeToolTip": "Certificate\\CreateSelfSignedCert\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:28:13.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
